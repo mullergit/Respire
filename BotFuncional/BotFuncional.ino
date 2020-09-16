@@ -26,14 +26,14 @@
 /**************************************************************************************************/
 
 // WiFi Parameters
-#define WIFI_SSID "net virtua 122"
-#define WIFI_PASS "14868350"
+#define WIFI_SSID ""
+#define WIFI_PASS ""
 #define MAX_CONN_FAIL 50
 #define MAX_LENGTH_WIFI_SSID 31
 #define MAX_LENGTH_WIFI_PASS 63
 
 // Telegram Bot Token (Get from Botfather)
-#define TLG_TOKEN "1107009197:AAETILKo2pkfWtTnKojAtcrL3zK-tf7gEIw"
+#define TLG_TOKEN "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 // Enable Bot debug level (0 - None; 1 - Bot Level; 2 - Bot+HTTPS Level)
 #define DEBUG_LEVEL_UTLGBOT 2
